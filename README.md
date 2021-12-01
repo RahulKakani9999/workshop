@@ -1,4 +1,5 @@
 # workshop
+[Github guide](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax#using-emoji)
 ## heading1
 *Rahul Kakani*
 
