@@ -35,4 +35,4 @@ Sno|Name
 2|Kushwanth
 3|Deepak
 
-@octocat :+9: Jai Balayya
+@octocat :+1: Jai Balayya
