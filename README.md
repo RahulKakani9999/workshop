@@ -15,9 +15,9 @@
   * Audi
 #### how to write ordered list?
 1. Bikes
-  `1. GT
-   2. Classic
-   3. Himalayan
+  1. GT
+  2. Classic
+  3. Himalayan
 ##### how to add link?
 [Github](https://www.google.com/search?channel=fs&client=ubuntu&q=github.com)
   
