@@ -22,5 +22,8 @@
   
 ##### how to add link?
 [Github](https://www.google.com/search?channel=fs&client=ubuntu&q=github.com)
+
+###### how to add image?
+![Balayya](https://static.toiimg.com/photo/msid-69295717/69295717.jpg?96996)
   
 
