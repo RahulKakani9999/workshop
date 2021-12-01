@@ -27,4 +27,10 @@
 ![TajMahal](https://images.unsplash.com/photo-1587135941948-670b381f08ce?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8M3x8dGFqJTIwbWFoYWx8ZW58MHx8MHx8&w=1000&q=80)
 ![Balayya](https://static.toiimg.com/photo/msid-69295717/69295717.jpg?96996)
   
+how to draw table?
 
+Sno|Name
+----|----
+1|Rahul
+2|Kushwanth
+3|Deepak
